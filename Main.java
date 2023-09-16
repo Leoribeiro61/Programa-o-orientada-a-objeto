@@ -9,7 +9,7 @@ public class Main {
         
         Cliente cliente = new Cliente("Maria", "678", "444");
         
-        System.err.println("Cliente "+cliente.toString());
+        System.out.println("Cliente "+cliente.toString());
     }
     
 }
